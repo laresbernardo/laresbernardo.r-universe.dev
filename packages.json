@@ -2,5 +2,9 @@
   {
     "package": "lares",
     "url": "https://github.com/laresbernardo/lares"
+  },
+  {
+    "package": "lareshiny",
+    "url": "https://github.com/laresbernardo/lareshiny"
   }
 ]
