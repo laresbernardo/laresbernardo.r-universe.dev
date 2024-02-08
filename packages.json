@@ -8,7 +8,8 @@
     "url": "https://github.com/laresbernardo/lareshiny"
   },
     {
-    "package": "Robyn",
-    "url": "https://github.com/facebookexperimental/Robyn/R"
+     "package": "Robyn",
+     "url": "https://github.com/facebookexperimental/Robyn",
+     "subdir": "R"
   }
 ]
